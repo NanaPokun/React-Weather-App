@@ -4,7 +4,7 @@ The App checks the waether for the various conditions of a place at a particular
 
 the project was made using a sime create-react-app, some styling and JSX.
 
-All files are located in the src folder.
+All files are located in the src folder, where you can fork or copy.
 
 Below is a brief description on how to get started with React
 
