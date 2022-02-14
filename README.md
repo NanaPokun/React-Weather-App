@@ -1,3 +1,14 @@
+This is a simple React Weather App
+
+The App checks the waether for the various conditions of a place at a particular period in time.
+
+the project was made using a sime create-react-app, some styling and JSX.
+
+All files are located in the src folder.
+
+Below is a brief description on how to get started with React
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
